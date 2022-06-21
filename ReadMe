@@ -1,0 +1,15 @@
+# Algorithm
+Compute the greatest common divisor of
+two nonnegative integers p and q as follows:
+
+If q is 0, the answer is p. If not, divide p by q
+The answer is the this book, we use computer programs to de-
+greatest common divisor of q and r
+
+#
+    The operators * and / (and % ) have higher precedence than (are applied before) the + and - operators; among logical operators, ! is the highest precedence, followed by && and then || . Generally,
+    operators of the same precedence are applied left to right. As in standard arithmetic ex-pressions, you can use parentheses to override these rules.
+#
+
+A program is a sequence of statements, with declarations, assignments, conditionals,
+loops, calls, and returns.
